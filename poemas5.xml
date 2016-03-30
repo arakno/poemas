@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="3/11/2005">
+<autor>Jorge Brandão Basto</autor>
+<titulo></titulo>
+<estrofe>
+<verso>Teu rosto tão belo</verso>
+<verso>sei o que me diz</verso>
+<verso>e, por isso, ao vê-lo</verso>
+<verso>sinto-me feliz.</verso>
+</estrofe>
+<estrofe>
+<verso>Do teu rosto belo</verso>
+<verso>nem sei que dizer</verso>
+<verso>mas sei bem que vê-lo</verso>
+<verso>só me dá prazer.</verso>
+</estrofe>
+<estrofe>
+<verso>Com teu rosto belo</verso>
+<verso>tudo é mais risonho:</verso>
+<verso>dá-me, só por vê-lo,</verso>
+<verso>a música e o sonho.</verso>
+</estrofe>
+<estrofe>
+<verso>Do teu rosto belo</verso>
+<verso>sei que sou cativo,</verso>
+<verso>quando estou a vê-lo</verso>
+<verso>sinto que estou vivo.</verso>
+</estrofe>
+<estrofe>
+<verso>Teu rosto é tão belo</verso>
+<verso>que tudo me deu:</verso>
+<verso>quando estava a vê-lo</verso>
+<verso>senti-me no céu.</verso>
+</estrofe>
+</poema>
+</versos>

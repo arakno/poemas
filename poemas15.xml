@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="19/03/1946" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Reminiscências</titulo>
+<estrofe>
+<verso>Barra fora, veloz, por entre espuma</verso>
+<verso>lá vai, singrando o mar, ligeira escuna...</verso>
+<verso>Leva emigrantes: buscam a fortuna</verso>
+<verso>em países ocultos pela bruma...</verso>
+</estrofe>
+<estrofe>
+<verso>Enquanto o vento a branca vela enfuma</verso>
+<verso>as lágrimas deslizam-me, uma a uma:</verso>
+<verso>- Dói-me os que vão ( a vela já se esfuma...)</verso>
+<verso>eu, também emigrei por desfortuna...</verso>
+</estrofe>
+<estrofe>
+<verso>- Foi-me batel minha ânsia deslumbrada</verso>
+<verso>o mar que naveguei era a ilusão,</verso>
+<verso>a brisa leve uma esperança alada...</verso>
+</estrofe>
+<estrofe>
+<verso>Depois (como me lembro!...) houve um tufão,</verso>
+<verso>da minha ânsia ficou tosca jangada</verso>
+<verso>onde cravei, meio afogado, a mão...</verso>
+</estrofe>
+</poema>
+</versos>

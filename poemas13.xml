@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="30/09/1946" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Destêrro</titulo>
+<estrofe>
+<verso>Quando cismava, em minha desventura</verso>
+<verso>no cais envolto numa treva imensa,</verso>
+<verso>dum relâmpago forte, a luz intensa</verso>
+<verso>rasgou de lado a lado a noite escura...</verso>
+</estrofe>
+<estrofe>
+<verso>O mar estava possesso de loucura</verso>
+<verso>varria o porto horrível vendaval</verso>
+<verso>quando á luz do relâmpago brutal</verso>
+<verso>num cenário de medo e de amargura</verso>
+</estrofe>
+<estrofe>
+<verso>Vi minhas caravelas entre as vagas</verso>
+<verso>destroçarem-se contra as duras fragas</verso>
+<verso>com medonho, fantástico fragor...</verso>
+</estrofe>
+<estrofe>
+<verso>...E desvendando a bruma, além do cais</verso>
+<verso>descubro as costas rudes, abismais</verso>
+<verso>da ilha agreste e exótica da Dôr</verso>
+</estrofe>
+</poema>
+</versos>

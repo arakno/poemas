@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="28/11/2011" local="Mafra" tipo="poema">
+<autor>KENYA PATRÍCIA</autor>
+<titulo>nº1</titulo>
+<estrofe>
+<verso>De manha parei </verso>
+<verso>Sem notar a minha mente </verso>
+<verso>seguiu  </verso>
+</estrofe>
+
+<estrofe>
+<verso>Seguiu para o lado </verso>
+<verso>Olhei a janela</verso>
+<verso>Vi e pensei  </verso>
+</estrofe>
+
+<estrofe>
+<verso>Alguem pensou</verso>
+<verso>E sorriu     </verso>
+<verso>Sorrindo a mente seguiu  </verso>
+</estrofe>
+
+<estrofe>
+<verso>A mente falou</verso>
+<verso>O coraçao olhou  </verso>
+<verso>A janela abriu   </verso>
+</estrofe>
+
+<estrofe>
+<verso>O dia clareou </verso>
+<verso>De manha a mente </verso>
+<verso>abriu </verso>
+</estrofe>
+</poema>
+</versos>

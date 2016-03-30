@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="05/10/1947" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Interrupções</titulo>
+<estrofe>
+<verso>Dança bailarina. Contorce as ancas</verso>
+<verso>escorridas e gira sempre à roda</verso>
+<verso>os cabelos cobrindo a cara toda</verso>
+<verso>as saias entreabrindo, as pernas brancas...</verso>
+</estrofe>
+<estrofe>
+<verso>Esconde-me esses braços, incomoda</verso>
+<verso>ver esses braços que parecem troncos</verso>
+<verso>sôbre portas abertas, fáceis, francos...</verso>
+<verso>-Sim, traga um refresco qualquer com soda</verso>
+</estrofe>
+<estrofe>
+<verso>Onde ia eu?... Portas abertas, braços?...</verso>
+<verso>-Só tenho braços nem para deitar fora</verso>
+<verso>o que não quero e sonho nos espaços</verso>
+</estrofe>
+<estrofe>
+<verso>além. A bailarina que eu criei</verso>
+<verso>para me iludir, que fique. Eu vou-me embora</verso>
+<verso>do sonho de esquecer o que sonhei...</verso>
+</estrofe>
+</poema>
+</versos>

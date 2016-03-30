@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="17/03/1945" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Parêntesis</titulo>
+<estrofe>
+<verso>Inverno lassidão invade a praia</verso>
+<verso>serenas, rolam pequeninas vagas,</verso>
+<verso>o rubro sol ao longe já desmaia,</verso>
+<verso>como monstros do mar erguem-se as fragas...</verso>
+</estrofe>
+<estrofe>
+<verso>Sombras da treva aguardam que o sol caia,</verso>
+<verso>no horizonte há mil paisagens vagas</verso>
+<verso>uma onda glauca que se espraia</verso>
+<verso>canta saudades de remotas plagas...</verso>
+</estrofe>
+<estrofe>
+<verso>Fico a pensar sentado num rochedo</verso>
+<verso>no grande mar que espelha o céu sem fim</verso>
+<verso>e anda a contar à areia o seu segrêdo...</verso>
+</estrofe>
+<estrofe>
+<verso>(...Foi sobre um mar azul e calmo, assim,</verso>
+<verso>que num batel eu me embarquei com medo,</verso>
+<verso>naquele dia em que emigrei de mim...)</verso>
+</estrofe>
+</poema>
+</versos>

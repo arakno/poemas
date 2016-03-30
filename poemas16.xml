@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="14/10/1947" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Chuva no vazio</titulo>
+<estrofe>
+<verso>Chove luar sôbre o terraço morto</verso>
+<verso>do meu cansaço. Esborratou-me o fresco</verso>
+<verso>que não pintei (fizera um risco torto</verso>
+<verso>numa parede, um risco atroz, grotesco).</verso>
+</estrofe>
+<estrofe>
+<verso>(E perco o meu olhar do arabesco </verso>
+<verso>enferrujado dum portão. Absorto)</verso>
+<verso>o meu cismar molhou-se (eu já o pesco</verso>
+<verso>no charco que empoçou em não me importo).</verso>
+</estrofe>
+<estrofe>
+<verso>Espremo o meu cismar que torço, torço</verso>
+<verso>sempre a escorrer luar por sôbre o dorso</verso>
+<verso>das minhas mãos. As mãos onde não coube</verso>
+</estrofe>
+<estrofe>
+<verso>o que sonhei - Por isso chove luar</verso>
+<verso>em mim, no meu terraço sob o mar,</verso>
+<verso>(principalmente sôbre o que não houve...)</verso>
+</estrofe>
+</poema>
+</versos>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="24/03/1946" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Opressão</titulo>
+<estrofe>
+<verso>Que fútil vida, as horas vagarosas</verso>
+<verso>sempre a passar, todas iguais iguais...</verso>
+<verso>sem côr, sem luz, sem formas vigorosas,</verso>
+<verso>irritantes, monótonas, fatais</verso>
+</estrofe>
+<estrofe>
+<verso>São sempre as mesmas vozes ociosas,</verso>
+<verso>sempre as mesmas visões, rudes, banais...</verso>
+<verso>O tédio me abarcou nas mãos rugosas,</verso>
+<verso>tudo aborreço, já não posso mais...</verso>
+</estrofe>
+<estrofe>
+<verso>No céu cinzento em que pensar me cubro</verso>
+<verso>porque não brilha o sol, ardente e rubro?</verso>
+<verso>porque não sopra, suave, a brisa leve?...</verso>
+</estrofe>
+<estrofe>
+<verso>(...E sobre mim, sempre esta nuvem densa...)</verso>
+<verso>Porque não passa esta pressão imensa?</verso>
+<verso>porque não chove? porque não cai neve?...</verso>
+</estrofe>
+</poema>
+</versos>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="05/05/2005">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Deus partiu um fruto ao meio</titulo>
+<estrofe>
+<verso>Deus partiu um fruto ao meio</verso>
+<verso>Fez os teus lábios e os meus</verso>
+<verso>Nós num beijo desfizemos</verso>
+<verso>O que tinha feito Deus.</verso>
+</estrofe>
+<estrofe>
+<verso>Teus olhos sempre juntinhos</verso>
+<verso>De casados são modelo</verso>
+<verso>Tua boca é solteirinha</verso>
+<verso>E viúvo o teu cabelo.</verso>
+</estrofe>
+<estrofe>
+<verso>Se perguntarem por mim</verso>
+<verso>Não te esqueças de informar</verso>
+<verso>Que estou fora dos teus olhos</verso>
+<verso>Mas dentro do teu olhar.</verso>
+</estrofe>
+</poema>
+</versos>

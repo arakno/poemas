@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="28/02/1947" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>nº11</titulo>
+<estrofe>
+<verso>Cavaleiro sem armas e sem cotas</verso>
+<verso>que procura entre brumas um castelo...</verso>
+<verso>Rumo astral, desmedido de gaivota</verso>
+<verso>d'asas de chumbo e côr de pesadêlo...</verso>
+</estrofe>
+<estrofe>
+<verso>Ilha esquecida em árticos sem gêlo</verso>
+<verso>em que aportei em épocas remotas</verso>
+<verso>e donde além do mar ouço o apêlo</verso>
+<verso>de tudo o que não trouxe a minha frota...</verso>
+</estrofe>
+<estrofe>
+<verso>Paço real onde adormecem pagens</verso>
+<verso>e onde há lustres de vidro que quebrei</verso>
+<verso>em ímpetos passivos e selvagens...</verso>
+</estrofe>
+<estrofe>
+<verso>Emigrante de mim que não voltei...</verso>
+<verso>Poeira que hoje cobre as carruagens</verso>
+<verso>da minha comitiva quando rei...</verso>
+</estrofe>
+</poema>
+</versos>

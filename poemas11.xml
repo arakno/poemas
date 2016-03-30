@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="01/01/1947" local="Coimbra" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Intemporalidade</titulo>
+<estrofe>
+<verso>Fiquei a um canto duma sala e caio</verso>
+<verso>pelo alçapão do sonho que arrebata</verso>
+<verso>quem sou e fui até nascer pirata</verso>
+<verso>há séculos atrás num mês de Maio</verso>
+</estrofe>
+<estrofe>
+<verso>Nos mares da China onde o luar põe prata</verso>
+<verso>é que eu exerço a profissão: malais</verso>
+<verso>desde as unhas dos pés até ao raio</verso>
+<verso>de ter princesas que ninguém resgata.</verso>
+</estrofe>
+<estrofe>
+<verso>(A sala não tem tecto nem paredes...)</verso>
+<verso>Do junco que governo lanço as redes</verso>
+<verso>para pescar sei lá o quê e berro:</verso>
+</estrofe>
+<estrofe>
+<verso>Orca a bombordo! Fogo! Á abordagem!</verso>
+<verso>(Ao sol são de oiro as ondas, na estalagem</verso>
+<verso>onde quero esbanjá-las são de ferro!</verso>
+</estrofe>
+</poema>
+
+</versos>

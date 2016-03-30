@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="22/03/1947" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>nº12</titulo>
+<estrofe>
+<verso>Sulco de golpe já em cicatriz</verso>
+<verso>que me feriu não sei em que combate...</verso>
+<verso>Pintor que esgota as tintas com que esbate</verso>
+<verso>a minha ânsia em brumas d'oiro e gris...</verso>
+</estrofe>
+<estrofe>
+<verso>Incêncio em rubras chamas d'escarlate</verso>
+<verso>que eu afoguei em turbilhões de giz...</verso>
+<verso>Nómadas que passam terras hostis</verso>
+<verso>sôbre pontes aérias de dislate</verso>
+</estrofe>
+<estrofe>
+<verso>Sonho que sempre esqueço, quando acordo...</verso>
+<verso>Terra à vista a bombordo e a estibordo...</verso>
+<verso>Pedra que não rolou num declive...</verso>
+</estrofe>
+<estrofe>
+<verso>Desejado em manhã de nevoeiro...</verso>
+<verso>Monge imerso nas sombras do mosteiro</verso>
+<verso>de tudo o que ficou do que já tive...</verso>
+</estrofe>
+</poema>
+</versos>

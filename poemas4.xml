@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="1963">
+<autor>Jorge Brandão Basto</autor>
+<titulo>1º Prémio de quadra dos Jogos Florais de Faro, 1963</titulo>
+<estrofe>
+<verso>Deus partiu um fruto ao meio</verso>
+<verso>fez os teus lábios e os meus,</verso>
+<verso>nós num beijo desfizemos</verso>
+<verso>o que tinha feito Deus.</verso>
+</estrofe>
+</poema>
+<poema>
+<estrofe>
+<verso>Teu olhar é voo d'ave</verso>
+<verso>que sobre tudo se estende</verso>
+<verso>mas nos espaços não cabe</verso>
+<verso>e só na minh'alma ascende.</verso>
+</estrofe>
+</poema>
+<poema>
+<estrofe>
+<verso>Deus colheu duas gotas d'água</verso>
+<verso>no mar, á luz das estrelas,</verso>
+<verso>colocou-as no teu rosto,</verso>
+<verso>fez os teus olhos com elas</verso>
+</estrofe>
+</poema>
+</versos>

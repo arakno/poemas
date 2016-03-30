@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="cd.xsl"?>
+<?xml-stylesheet type="text/css" href="poemas.css"?>
+<versos>
+<poema>
+<autor>Jorge Brandão Basto</autor>
+<titulo>fadfa</titulo>
+<estrofe>
+<verso>Primeiro que tudo</verso>
+<verso>há o sorriso,</verso>
+<verso>quando vejo fico mudo</verso>
+<verso>e vislumbro o paraíso.</verso>
+<verso>Depois é tão natural</verso>
+<verso>que nada do que é faz mal</verso>
+<verso>e tem uma simplicidade</verso>
+<verso>de quem se sabe verdade.</verso>
+<verso>O seu rosto é primavera</verso>
+<verso>mostra uma expressão sincera.</verso>
+<verso>Duma beleza serena</verso>
+<verso>a visão da sua face</verso>
+<verso>daria alegria plena</verso>
+<verso>a quem a contemplasse.</verso>
+</estrofe>
+</poema>
+ <poema>
+<autor>Jorge Brandão Basto</autor>
+<titulo>fadfa</titulo>
+<estrofe>
+<verso>Primeiro que tudo</verso>
+<verso>há o sorriso,</verso>
+<verso>quando vejo fico mudo</verso>
+<verso>e vislumbro o paraíso.</verso>
+<verso>Depois é tão natural</verso>
+<verso>que nada do que é faz mal</verso>
+<verso>e tem uma simplicidade</verso>
+<verso>de quem se sabe verdade.</verso>
+<verso>O seu rosto é primavera</verso>
+<verso>mostra uma expressão sincera.</verso>
+<verso>Duma beleza serena</verso>
+<verso>a visão da sua face</verso>
+<verso>daria alegria plena</verso>
+<verso>a quem a contemplasse.</verso>
+</estrofe>
+</poema>
+</versos> 

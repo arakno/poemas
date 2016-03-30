@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="2004">
+<autor>Jorge Brandão Basto</autor>
+<titulo></titulo>
+<estrofe>
+<verso>Primeiro que tudo</verso>
+<verso>há o sorriso,</verso>
+<verso>quando o vejo fico mudo</verso>
+<verso>e vislumbro o paraíso.</verso>
+<verso>Depois é tão natural</verso>
+<verso>que nada do que é faz mal</verso>
+<verso>e tem uma simplicidade</verso>
+<verso>de quem se sabe verdade.</verso>
+<verso>O seu rosto é primavera</verso>
+<verso>mostra uma expressão sincera.</verso>
+<verso>Duma beleza serena</verso>
+<verso>a visão da sua face</verso>
+<verso>daria alegria plena</verso>
+<verso>a quem a contemplasse.</verso>
+</estrofe>
+<estrofe>
+<verso>Houve muitos milhões de anos</verso>
+<verso>de malogros e de enganos</verso>
+<verso>de milagres e de amor</verso>
+<verso>para que a Terra a produzisse</verso>
+<verso>e, assim mesmo, surgisse</verso>
+<verso>finalmente esta Flor.</verso>
+</estrofe>
+</poema>
+</versos>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="01/01/1970">
+<autor>Jorge Brandão Basto</autor>
+<titulo tipo="pensamento">Saudade</titulo>
+<estrofe>
+<verso>Saudade é a presença</verso>
+<verso></verso>
+</estrofe>
+</poema>
+<poema data="01/01/1970">
+<autor>Jorge Brandão Basto</autor>
+<titulo tipo="pensamento">Amor</titulo>
+<estrofe>
+<verso>O coração é qualquer coisa que se reparte</verso>
+<verso>E se dá inteiro em cada fragmento</verso>
+</estrofe>
+</poema>
+<poema data="01/01/1985">
+<autor>Jorge Brandão Basto</autor>
+<titulo tipo="pensamento"></titulo>
+<estrofe>
+<verso>Olha para mim que os meus olhos reflectem-te</verso>
+</estrofe>
+</poema>
+</versos>

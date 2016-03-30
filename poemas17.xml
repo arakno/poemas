@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="19/09/1946" local="Porto" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Indícios</titulo>
+<estrofe>
+<verso>...E louco fiquei só na ilha exígua,</verso>
+<verso>amarelada num precoce Outono,</verso>
+<verso>onde me ergui num derradeiro trono,</verso>
+<verso>imperador da solidão contígua...</verso>
+</estrofe>
+<estrofe>
+<verso>E passo o tempo em lânguido abandono</verso>
+<verso>,a ostentar minha grandeza ambígua;</verso>
+<verso>às vezes vejo a minha sombra e sigo-a</verso>
+<verso>até cair escânime com sono...</verso>
+</estrofe>
+<estrofe>
+<verso>Quando acordo componho um ar sarcástico</verso>
+<verso>e no meu passo vagamente elástico</verso>
+<verso>vagueio a ilhas em circunspectas rondas...</verso>
+</estrofe>
+<estrofe>
+<verso>E (rastos do meu Sonho...) à lua-cheia,</verso>
+<verso>faço barquinhos de papel na areia,</verso>
+<verso>que deixo ir, vaidoso, sôbre as ondas...</verso>
+</estrofe>
+</poema>
+</versos>

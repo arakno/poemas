@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="22/08/1945" local="St Leocádia" tipo="soneto">
+<autor>Jorge Brandão Basto</autor>
+<titulo>Regresso</titulo>
+<estrofe>
+<verso>Uma tarde, ao poente, regressaram</verso>
+<verso>diluídos na luz do fim do dia</verso>
+<verso>aquelas caravelas que levaram</verso>
+<verso>os anseios da minha fantasia...</verso>
+</estrofe>
+<estrofe>
+<verso>Desfraldadas as velas, na agonia</verso>
+<verso>daquele fim de tarde, em que chegaram</verso>
+<verso>como uma nota alegre, nas harmonias</verso>
+<verso>quietas da paisagem, deslizavam...</verso>
+</estrofe>
+<estrofe>
+<verso>Depois das caravelas aportadas,</verso>
+<verso>descobertas as formas desejadas</verso>
+<verso>da Beleza ideal, à minha frente...</verso>
+</estrofe>
+<estrofe>
+<verso>Senti a bocejar em mim o tédio</verso>
+<verso>e fiquei perante elas, sem remédio,</verso>
+<verso>olhos vagos a olhar... indiferente...</verso>
+</estrofe>
+</poema>
+</versos>
