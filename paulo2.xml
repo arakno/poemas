@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="13/11/2009" local="Alcantara" tipo="poema">
+<autor>Paulo Basto - <em>o coiso</em></autor>
+<titulo>FOME</titulo>
+<estrofe>
+<verso>Tenho fome</verso>
+<verso>Tenho fome de ver</verso>
+<verso>Fome de comer</verso>
+<verso>Fome da fome</verso>
+<verso>Matar a fome p'ra nao sofrer</verso>
+</estrofe>
+
+<estrofe>
+<verso>Bolinar como um indigente</verso>
+<verso>O sorriso, calcado no rosto.</verso>
+<verso>Fazer as coisas com gosto,</verso>
+<verso>Alimentar um estomago profundo</verso>
+</estrofe>
+
+</poema>
+</versos>
