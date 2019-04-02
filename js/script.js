@@ -107,7 +107,7 @@ var articles = {
       // Transform
       document.getElementById('result').innerHTML = xml.transformNode(xsl)
     } else {
-        alert('XSLT not available...')
+      alert('XSLT not available...')
     }
   }
 
