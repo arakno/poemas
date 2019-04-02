@@ -1,0 +1,29 @@
+{
+  "name": "poemas",
+  "version": "1.0.0",
+  "description": "poemas do pai",
+  "main": "libs/script.js",
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^12.0.1"
+  },
+  "scripts": {
+    "test": "standard",
+    "fix": "standard js/script.js --fix"
+  },
+  "standard": {
+    "ignore": [
+      "js/libs/"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arakno/poemas.git"
+  },
+  "author": "arakno",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/arakno/poemas/issues"
+  },
+  "homepage": "https://github.com/arakno/poemas#readme"
+}
