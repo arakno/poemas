@@ -57,8 +57,10 @@ var newsitems = {
       for (var i = 0; i < els.length; i++) {
         els[i].addEventListener('click', displayArticle, false)
       };
+
     } else {
-      console.log('0sterile')
+      // console.log('0sterile')
+      throw new Error('Error creating navigation items.')
     }
   }
 
@@ -132,3 +134,6 @@ function displayArticle (evt) {
 document.addEventListener('DOMContentLoaded', displayList, false)
 
 newsitems.loadXML('list.xml')
+
+// select first poem
+document.querySelectorAll('li')[0].click()
