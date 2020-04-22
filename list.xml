@@ -133,5 +133,11 @@
 <shortText>Fome</shortText>
 <important>LOW</important>
 </news>
+<news>
+<id>4</id>
+<title>poemas40</title>
+<shortText>Sem titulo</shortText>
+<important>LOW</important>
+</news>
 </newsList>
 </response>

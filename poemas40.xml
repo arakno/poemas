@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="poemas.xsl"?>
+<versos>
+<poema data="1999" local="Cacem" tipo="poema">
+<autor>Jorge Luis Basto</autor>
+<titulo>Sem titulo</titulo>
+<estrofe>
+<verso>Pela calada da noite,</verso>
+<verso>e na imensidao do espaco,</verso>
+<verso>nove planetas giram a volta do Sol.</verso>
+</estrofe>
+</poema>
+</versos>
