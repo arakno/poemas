@@ -1,143 +1,120 @@
 <?xml version="1.0"?>
 <response>
-<newsList>
-<news>
-<id>1</id>
-<title>poemas</title>
-<shortText>Sem titulo</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>2</id>
-<title>poemas10</title>
-<shortText>Saudade</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>3</id>
-<title>poemas11</title>
-<shortText>Intemporalidade</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas12</title>
-<shortText>Opressão</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas13</title>
-<shortText>Destêrro</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas112</title>
-<shortText>Sem titulo</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas14</title>
-<shortText>Parêntesis</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas15</title>
-<shortText>Reminiscências</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas16</title>
-<shortText>Chuva no vazio</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas17</title>
-<shortText>Indícios</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas18</title>
-<shortText>nº11</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas19</title>
-<shortText>Regresso</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas2</title>
-<shortText>Diversas maneiras de amar uma só mulher</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas3</title>
-<shortText>1º Prémio de quadra dos Jogos Florais de Faro, 1963</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas4</title>
-<shortText>Sem titulo</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas5</title>
-<shortText>Sem titulo</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas6</title>
-<shortText>Sem titulo</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas7</title>
-<shortText>Cátia I</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas8</title>
-<shortText>Deus partiu um fruto ao meio</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas9</title>
-<shortText>Saudade</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas30</title>
-<shortText>A tua beleza inspira-me</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas31</title>
-<shortText>Fome</shortText>
-<important>LOW</important>
-</news>
-<news>
-<id>4</id>
-<title>poemas40</title>
-<shortText>Sem titulo</shortText>
-<important>LOW</important>
-</news>
-</newsList>
+	<newsList>
+		<news>
+			<id>1</id>
+			<title>poemas</title>
+			<shortText>Sem titulo</shortText>
+		</news>
+		<news>
+			<id>2</id>
+			<title>poemas10</title>
+			<shortText>Saudade</shortText>
+		</news>
+		<news>
+			<id>3</id>
+			<title>poemas11</title>
+			<shortText>Intemporalidade</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas12</title>
+			<shortText>Opressão</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas13</title>
+			<shortText>Destêrro</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas112</title>
+			<shortText>Sem titulo</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas14</title>
+			<shortText>Parêntesis</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas15</title>
+			<shortText>Reminiscências</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas16</title>
+			<shortText>Chuva no vazio</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas17</title>
+			<shortText>Indícios</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas18</title>
+			<shortText>nº11</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas19</title>
+			<shortText>Regresso</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas2</title>
+			<shortText>Diversas maneiras de amar uma só mulher</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas3</title>
+			<shortText>1º Prémio de quadra dos Jogos Florais de Faro, 1963</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas4</title>
+			<shortText>Sem titulo</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas5</title>
+			<shortText>Sem titulo</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas6</title>
+			<shortText>Sem titulo</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas7</title>
+			<shortText>Cátia I</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas8</title>
+			<shortText>Deus partiu um fruto ao meio</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas9</title>
+			<shortText>Saudade</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas30</title>
+			<shortText>A tua beleza inspira-me</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas31</title>
+			<shortText>Fome</shortText>
+		</news>
+		<news>
+			<id>4</id>
+			<title>poemas40</title>
+			<shortText>Sem titulo</shortText>
+		</news>
+	</newsList>
 </response>
